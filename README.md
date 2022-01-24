@@ -19,7 +19,7 @@ Other than this we used another library called <strong>pillow<strong>. This libr
 To use this library in your local machine, you need to install this package in your local machine by running below code in terminal.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>pip install pillow</i><br/><br/>
 
-This app have :<br/>
+This OS have :<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial Setup for radius of Motor & Grade(angle between belt and floor)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customize the calory output by inserting the weight and height.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current date and time bar<br/>
