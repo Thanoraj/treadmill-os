@@ -9,13 +9,13 @@ This project was implemented to remove thefts in stores when adding items to tro
 
 ## About
 
-First we created a python script for calculations need to be done while treadmill is working. After that we started working on building UI with python. We only used python for build the UI. For building UI we used a python library called <strong>tkinter<strong>. This library helps us to create UI elements with python.<br/>
+First we created a python script for calculations need to be done while treadmill is working. After that we started working on building UI with python. We only used python for build the UI. For building UI we used a python library called <strong>tkinter</strong>. This library helps us to create UI elements with python.<br/>
 To use this library in your local machine, you need to install this package in your local machine by running below code in terminal.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<emphasis>pip install tkinter</emphasis><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>pip install tkinter</i><br/><br/>
 
 Other than this we used another library called <strong>pillow<strong>. This library helps us to import images, gifs and etc.<br/>
 To use this library in your local machine, you need to install this package in your local machine by running below code in terminal.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<emphasis>pip install pillow</emphasis><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>pip install pillow</i><br/><br/>
 
 This app have :<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial Setup for radius of Motor & Grade(angle between belt and floor)<br/>
