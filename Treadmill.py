@@ -764,7 +764,7 @@ para_file = open('Inputs.txt','r')
 line=[]
 line = para_file.readlines()
 
-#checking that the device is setuped or not 
+#checking that the device is setupped or not 
 if len(line) == 0:
     para_file.close()
     #direct to setup window for setting up the device
