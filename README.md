@@ -6,7 +6,7 @@ This project was implemented to remove thefts in stores when adding items to tro
 ## Author or creator of The Operating System :
 
 [Thanoraj Muthulingam](https://github.com/Thanoraj)<br/>
-[Thamatanthi Mahendranathan](https://github.com/ThamayanthiM)<br/>
+[Thamayanthi Mahendranathan](https://github.com/ThamayanthiM)<br/>
 [Gajan Piratheepan](https://github.com/PiratheepanGajan)<br/>
 [Thanojan Vettivel](https://github.com/ThanojanVettivel)
 
