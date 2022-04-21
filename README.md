@@ -8,6 +8,7 @@ This project was implemented to remove thefts in stores when adding items to tro
 [Thanoraj Muthulingam](https://github.com/Thanoraj)<br/>
 [Thamatanthi Mahendranathan](https://github.com/ThamayanthiM)<br/>
 [Thanojan Vettivel](https://github.com/ThanojanVettivel)
+[Gajan Piratheepan](https://github.com/PiratheepanGajan)
 
 ## About
 
