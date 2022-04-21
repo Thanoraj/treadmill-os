@@ -126,7 +126,7 @@ def steps_counter(rpm,radius,height,duration) :
     steps_taken = distance_walked_or_ran(rpm,radius,duration) /stride_len
     return steps_taken
 
-#####################################################################################
+####################################################################################
 def keyboard_window(e,ety,window):
     global keyboard_frame
     global num
